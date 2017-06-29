@@ -51,8 +51,8 @@ A()
 // METHOD 1 OUTPUT
 // A has finished
 // B has finished
-// D has finished
 // C has finished
+// D has finished
 
 /**
  * @method METHOD 2 - Similar to first METHOD, C finishes before calling function D but we can play inside B's function scope
